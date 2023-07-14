@@ -8,7 +8,7 @@ This project serves as a practice during a learning journey. It allows users to 
 
 ## Getting Started
 
-To run the CRM system on your local machine, follow these steps:
+To run the web app on your local machine, follow these steps:
 
 1. Clone the repository: `$ git clone <repository-url>`
 2. Navigate to the project directory: `$ cd <project-directory>`
