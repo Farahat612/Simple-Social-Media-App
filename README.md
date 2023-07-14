@@ -3,7 +3,9 @@ A simple Social Media web app using Python, Django, and Bootstrap templates.
 
 ## Project Overview
 
-This project serves as a practice during a learning journey. It allows users to perform various actions such as registration, login, logout, follow each other, post media and react with posts.
+TThe app is built and developed during for learning practice purposes to practice backend web development concepts like user registration, user authentication, Django forms, media uploading and followers tracking.
+Watch a Demo here if interested : https://tinyurl.com/SB-app.
+
 
 
 ## Getting Started
