@@ -30,7 +30,8 @@ To run the web app on your local machine, follow these steps:
 
 - Register a new user account by accessing the registration page.
 - Log in using your registered credentials.
-- Add, view, update, and delete notes as needed.
+- Post images to be viewd for your followers.
+- Follow other users and interact with their images.
 - Log out when you're done using the app.
 
 ## Contributing
